@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/udaybhatiyaa" target="blank"><img src="https://img.shields.io/twitter/follow/udaybhatiyaa?logo=twitter&style=for-the-badge" alt="udaybhatiyaa" /></a> </p>
 
-- 🔭 I’m currently working on [Blog App using MERN stack](https://github.com/uday-bhatiya/blog-app)
+- 🔭 I’m currently working on [Next js](https://github.com/uday-bhatiya?tab=repositories)
 
 - 🌱 I’m currently learning **MERN stack**
 
